@@ -1,0 +1,11 @@
+# Direct dependencies. See requirements-lock.txt for the validated complete set.
+mss==10.2.0
+pillow==12.3.0
+numpy==2.4.6
+requests==2.34.2
+pyaudiowpatch==0.2.12.8
+faster-whisper==1.2.1
+rapidocr-onnxruntime==1.4.4
+windows-toasts==1.3.1
+opencv-python==5.0.0.93
+keyboard==0.13.5

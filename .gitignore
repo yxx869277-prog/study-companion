@@ -1,0 +1,34 @@
+# Personal settings and all runtime data
+config.local.json
+data/
+logs/
+reports/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.pfx
+*oauth*
+*token*
+# Downloaded runtimes, models and environments
+.venv/
+venv/
+models/
+vendor/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Personal captures, recordings, backups and shortcuts
+*.wav
+*.mp3
+*.mp4
+*.jpg
+*.jpeg
+*.png
+*.bak*
+*.backup*
+*.lnk*
+*.log
+*.zip
+remote/

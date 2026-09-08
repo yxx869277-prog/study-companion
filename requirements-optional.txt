@@ -1,0 +1,2 @@
+# Only needed if you explicitly enable online speech.
+edge-tts==7.2.8
